@@ -9,5 +9,5 @@ alias home='cd ~'
 alias root='cd /'
 alias Desktop='cd ~/Desktop'
 
-alias nwn='cd .steam/steam/steamapps/common/Neverwinter\ Nights/bin/linux-x86'
+alias nwn='cd .steam/steam/steamapps/common/Neverwinter\ Nights/bin/linux-x86 && ./nwmain-linux +connect 46.4.59.55:5123'
 
